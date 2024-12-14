@@ -1,6 +1,8 @@
 # themealdb
 
-A Flutter project that contatins  meals recipes taken from API and show it :
+A Flutter project that contains meals recipes taken from API shows it :
+
+
 ![‪localhost_53815_#_ - Google Chrome‬ 12_14_2024 11_58_16 م](https://github.com/user-attachments/assets/1d41b833-c1dc-4b53-97d7-feefdb048fa4)
 ![‪localhost_53815_#_ - Google Chrome‬ 12_14_2024 11_58_43 م](https://github.com/user-attachments/assets/b15dbec1-1cd2-4db5-a38a-f60946af436a)
 ![‪localhost_53815_#_ - Google Chrome‬ 12_14_2024 11_58_58 م](https://github.com/user-attachments/assets/30b79fc1-9149-482a-b8c7-17e3f16e094b)
